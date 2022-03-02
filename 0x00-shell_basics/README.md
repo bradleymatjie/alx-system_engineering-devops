@@ -1,1 +1,1 @@
-0x00 shell basics
+My first exercise on devops
