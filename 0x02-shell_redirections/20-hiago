@@ -1,2 +1,2 @@
 #!/bin/bash
-trr -d cC
+tr -d cC
